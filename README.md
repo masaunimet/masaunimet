@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masaunimet
 - 👀 I’m interested in music, pixelart, videogames
-- 🌱 I’m currently learning unity, react, and assembly language
+- 🌱 I’m currently learning unity and c++
 - 💞️ I’m looking to collaborate on anyone who wants to make games in unity
 - 📫 How to reach me - in my gmail t27302013@correo.unimet.edu.ve
 
